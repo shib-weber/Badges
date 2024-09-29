@@ -1,2 +1,3 @@
 print("badges")
 #hello
+n=[1 2 3 "hello"]
