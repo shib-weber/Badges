@@ -1,7 +1,8 @@
 //repository for saying hello
 hello
 hello
-
+for(i=0 ; i<10;i++){
+ aconsole.log(
 alert("hello")
 alert("hello")
 console.log("committer")
