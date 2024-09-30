@@ -2,7 +2,9 @@
 hello
 hello
 for(i=0 ; i<10;i++){
- aconsole.log(
+ aconsole.log("hello")
+}
+
 alert("hello")
 alert("hello")
 console.log("committer")
