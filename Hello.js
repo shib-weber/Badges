@@ -1,6 +1,6 @@
 //repository for saying hello
-hello
-hello
+thinking of getting other badges
+
 for(i=0 ; i<10;i++){
  aconsole.log("hello")
 }
