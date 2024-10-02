@@ -4,3 +4,6 @@ n=[1 2 3 "hello"]
 print(n)
 
 print(tuple(n))
+
+while(i):
+  print(n)
