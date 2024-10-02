@@ -1,6 +1,8 @@
 //repository for saying hello
 
-I will definitely try to get all the other badges
+//I will definitely try to get all the other badges
+
+// Enhancing git profile 
 
 for(i=0 ; i<10;i++){
  aconsole.log("hello")
