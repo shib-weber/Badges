@@ -18,4 +18,4 @@ hello()
 console.log("How is it going" )
 
 //Till now it's of no use
-//Is typescript mpre important 
+//Is typescript more important than Javascript 
