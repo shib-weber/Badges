@@ -8,6 +8,3 @@ print(tuple(n))
 while(i):
   print(n)
 
-hello
-hello
-
