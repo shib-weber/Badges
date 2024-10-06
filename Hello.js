@@ -15,7 +15,3 @@ function hello()=>{
   console.log("to create a funtion")
 }
 hello()
-console.log("How is it going" )
-
-//Till now it's of no use
-//Is typescript more important than Javascript 
