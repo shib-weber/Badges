@@ -1,6 +1,4 @@
-//repository for saying hello
-
-//I will definitely try to get all the other badges
+//repository for saying 
 
 // Enhancing git profile 
 
