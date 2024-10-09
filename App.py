@@ -5,6 +5,7 @@ print(n)
 
 print(tuple(n))
 print()
+print()
 
 while(i):
   print(n)
