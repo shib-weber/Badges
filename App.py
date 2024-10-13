@@ -9,4 +9,4 @@ print()
 
 while(i):
   print(n)
-hello
+
