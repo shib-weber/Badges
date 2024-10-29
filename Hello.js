@@ -11,4 +11,4 @@ function hello()=>{
   console.log("to create a funtion")
 }
 hello()
-hello();
+hello()
